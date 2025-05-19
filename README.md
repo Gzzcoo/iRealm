@@ -63,3 +63,5 @@ https://github.com/user-attachments/assets/4d3d969e-31d8-4393-a39e-9547fd21afaf
 
 
 
+[![asciicast](https://asciinema.org/a/IGU4IZacmaieu5oeXnR3ajk8j.svg)](https://asciinema.org/a/IGU4IZacmaieu5oeXnR3ajk8j)
+
